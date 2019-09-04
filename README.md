@@ -1,2 +1,1 @@
-# blusensor-api-rest
-bluSensor® REST API
+# bluSensor® REST API
